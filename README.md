@@ -1,4 +1,5 @@
-# Covok - indie game was developed in Innopolis during Global Game Jam 2020.
+# Covok - repair Soviet Union.
+The game was developed in Innopolis during Global Game Jam 2020.
 
 ![](https://github.com/linzer0/Covok-Inno-Global-Game-Jam-2020/blob/master/Build/first.jpg)
 
